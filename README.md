@@ -1,6 +1,6 @@
 # Auth Backend API
 
-## 🚀 Features
+##  Features
 - User Registration
 - User Login
 - Password Hashing (bcrypt)
@@ -8,13 +8,13 @@
 - MongoDB Integration
 - Dockerized
 
-## 📦 Tech Stack
+##  Tech Stack
 - Node.js, Express.js
 - MongoDB & Mongoose
 - bcryptjs, jsonwebtoken
 - Docker
 
-## 🛠️ Setup Instructions
+##  Setup Instructions
 ```bash
 git clone <repo-url>
 cd auth-backend
@@ -23,10 +23,10 @@ npm install
 npm start
 ```
 
-## 🧪 Sample Test Credentials
+##  Sample Test Credentials
 - Email: test@example.com
 - Password: Test@123
 
-## 📄 API Endpoints
+##  API Endpoints
 - POST `/api/auth/register`
 - POST `/api/auth/login`
